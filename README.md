@@ -1,6 +1,6 @@
 # JwtBearer
 
-<li>
-  <ul>Minimal API</ul>
-  <ul>dotnet6</ul>
-</li>
+<uli>
+  <li>Minimal API</li>
+  <li>dotnet6</li>
+</ul>
