@@ -2,5 +2,5 @@
 
 <uli>
   <li>Minimal API</li>
-  <li>dotnet6</li>
+  <li>dotnet 6</li>
 </ul>
